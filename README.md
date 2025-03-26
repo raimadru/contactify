@@ -75,3 +75,7 @@ keyboard to navigate within the app.
 
 #### Table
 It's not perfect.
+
+<img width="1332" alt="cont" src="https://github.com/user-attachments/assets/0ddc1b2a-f5d1-436e-ba1a-9389d25b4e3c" />
+
+
