@@ -2,6 +2,8 @@
 
 Contactify is the app for contacts table and user details in one place.
 
+Github page: https://raimadru.github.io/contactify/
+
 ## What is used:
 
 - React
