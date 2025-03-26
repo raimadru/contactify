@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  box-sizing: border-box;
+  height: 100vh;
+  margin-top: 72px;
+
+  .contentContainer {
+    display: inherit;
+    flex-direction: row;
+    margin: -30px 36px 0 36px;
+  }
+}

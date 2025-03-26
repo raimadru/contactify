@@ -1,0 +1,15 @@
+@use 'abstracts/variables' as *;
+
+:root {
+  font-family: 'Roboto', sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+}

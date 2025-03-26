@@ -1,0 +1,26 @@
+@use '../../../abstracts/variables' as *;
+
+.mainHeader {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 153px;
+  color: $secondary-text;
+  background-color: $primary-background;
+  padding: 0 0 40px 36px;
+  align-items: center;
+
+  .input {
+    width: 216px;
+    margin-right: 16px;
+  }
+
+  .checkboxWrapper {
+    display: contents;
+    height: 42px;
+    width: 150px;
+    align-items: center;
+  }
+}
